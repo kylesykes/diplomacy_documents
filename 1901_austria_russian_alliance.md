@@ -8,5 +8,5 @@ On this, the Spring of 1901, do Russia and Austria enter an alliance.  The follo
 Any of the above can be modified based on prior agreement from both parties.
 
 Signed,
-Archduke Franz Ferdinand
-![Signature]("./Archduke_Franz_Ferdinand_of_Austria_Signature.svg")
+
+![Signature](./Archduke_Franz_Ferdinand_of_Austria_Signature.svg)
