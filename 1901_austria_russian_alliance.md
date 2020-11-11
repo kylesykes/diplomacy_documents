@@ -9,3 +9,5 @@ Any of the above can be modified based on prior agreement from both parties.
 
 Signed,
 Archduke Franz Ferdinand
+
+![Signature]("200px-Archduke Franz Ferdinand of Austria Signature.png")
