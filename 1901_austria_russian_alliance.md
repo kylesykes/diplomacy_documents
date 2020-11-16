@@ -11,4 +11,4 @@ Signed,
 
 ![Signature](./Archduke_Franz_Ferdinand_of_Austria_Signature.svg)
 
-![Signature](./1280px-Nicholas_II_Signature.svg.png)
+![Signature](./1280px-Nicholas_II_Signature.svg)
